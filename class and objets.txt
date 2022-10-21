@@ -1,0 +1,11 @@
+differnce b/w class and methods
+class is a virtual entity.
+class acts as blue print for objects.
+class is used for storing related variables and methods.
+eg: class Student:
+def study(self):
+print(‘student is studying’)print(‘student is studying’)
+
+Object is a real world entity.
+eg:
+s1 = Student()
